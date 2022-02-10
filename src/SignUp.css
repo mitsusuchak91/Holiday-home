@@ -1,0 +1,29 @@
+.SignUp {
+    position: relative;
+    padding: 100px;
+    margin-left: 430px;
+    margin-right: 50Opx;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 50px;
+    box-shadow: 0px 6px 20px -2px rgb(197, 64, 87); /*box shadow gives 3D effect*/
+    max-width: 470px;
+    
+}
+
+.SignUp form {
+
+    margin: 0 auto;
+    max-width: 320px;
+    font-size: 20px;
+    font-weight: 30;
+    text-align: center;
+    color: rgb(197, 64, 87);
+}
+.SignUp > h3 {
+    margin-bottom: 50px;
+    color: rgb(197, 64, 87);
+    font-size: 30px;
+    text-align: center;
+
+}

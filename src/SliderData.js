@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+        image:
+         'https://media.cntraveler.com/photos/61c987b548a88c417ebd2b12/master/w_3840,h_2560,c_limit/Capella-Sanya.jpg'
+    },
+    {
+        image:
+         'https://media.cntraveler.com/photos/580a63ef5f38825f6c53db69/master/pass/Bedroom-ParkHyattSydney-Australia-CRHotel.jpg'
+    },
+    {
+        image:
+         'https://www.tripz.com/vacation-rental-magazine/wp-content/uploads/2017/11/IMG_0854_5_6.jpg'
+    },
+    {
+        image:
+         'https://media.cntraveler.com/photos/5f5105a942341b4d2fb70a1c/master/w_1200,h_800,c_limit/remote-2243398-airbnb.jpg'
+    },
+    {
+        image:
+         'https://resources.stuff.co.nz/content/dam/images/1/s/2/q/p/i/image.related.StuffLandscapeSixteenByNine.1420x800.1s1df2.png/1539290053923.jpg'
+    }
+]
