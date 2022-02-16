@@ -1,6 +1,6 @@
 .host {
     background: url("https://resources.stuff.co.nz/content/dam/images/1/s/2/q/p/i/image.related.StuffLandscapeSixteenByNine.1420x800.1s1df2.png/1539290053923.jpg") center center;
-    height: 70vh;
+    height: 75vh;
     position: relative;
     
   }
@@ -8,17 +8,20 @@
 .Host_header {
 
 color: rgb(197, 64, 87);
-padding-top: 9vh;
+justify-content: center;
+padding-left: 300px;
+padding-top: 60px;
+/*padding-top: 9vh;
 padding-left: 1000px;
 padding-right: 70px;
 padding-bottom: 280px;
 width: 500px;
-width: 500px;
+width: 500px;*/
 
 }
 .Host_header > h2 {
-    font-size: 30px;
-    color: rgb(26, 24, 24);
+    font-size: 50px;
+    color: rgb(197, 64, 87);
 }
 .Host_header > h1 {
     font-size: 60px;

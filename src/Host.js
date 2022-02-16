@@ -10,13 +10,10 @@ function Host() {
      <div className='host'>
      <div className='Host_header'>
       <h2>
-          Try hosting on 
+          Try hosting on Holiday Home
       </h2>
-      <h1>
-      Holiday Home
-      </h1>
       <h3>
-      Join us. We will help you every <br/> step of the way.
+      Join us. We will help you every step of the way.
       </h3>
       <Button variant="btn btn-success" onClick={() => history.push('/login')}>Let's go!</Button>
       {/*<VideoPlayer src= "https://youtu.be/2uxzTEx7PMU" height="420"/>*/}

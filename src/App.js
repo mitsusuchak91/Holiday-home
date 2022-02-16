@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-//import 'bootstrap';
+//import Bootstrap from 'bootstrap';
+import Styles from 'styled-components';
 import Home from './Home';
 import Header from './Header';
 import Footer from './Footer';
@@ -8,6 +9,7 @@ import SearchPage from './SearchPage';
 import Login from './Login';
 import Host from './Host';
 import SignUp from './SignUp';
+
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
